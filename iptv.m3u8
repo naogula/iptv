@@ -3,7 +3,7 @@
 https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Bloomberg TV +2
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1，tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe (720p)
+#EXTINF:-1,tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe (720p)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,CBN News National (1080p)
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
